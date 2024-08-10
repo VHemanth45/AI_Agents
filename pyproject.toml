@@ -1,5 +1,5 @@
 [tool.poetry]
-name="planner"
+name="Aiplanner"
 version="0.1.0"
 description ="A Travel planner.For planning the Trips and make them beautiful"
 authors=["Hemanth"]
