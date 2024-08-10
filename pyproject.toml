@@ -1,8 +1,8 @@
 [tool.poetry]
 name="planner"
 version="0.1.0"
-description ="A simple planner"
-authors=["Spartan"]
+description ="A Travel planner.For planning the Trips and make them beautiful"
+authors=["Hemanth"]
 
 [tool.poetry.dependencies]
 python=">=3.10.0,<3.12"
