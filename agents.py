@@ -9,7 +9,7 @@ from calculator import CalculatorTools
 # You can also define custom tasks in tasks.py
 class TravelAgents:
     def __init__(self):
-        self.Ollama = Ollama(base_url='http://localhost:11434',model="llamacrew")
+        self.Ollama = Ollama(base_url='http://localhost:11434',model="crewai-llama3")
 
     def expert_travel_agent(self):
         return Agent(
